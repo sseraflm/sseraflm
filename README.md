@@ -12,4 +12,4 @@ I'm an IT Technician Student and aspiring Fullstack/DevOps Engineer from Poland.
   - Database Management - Mastering MySQL, including complex JOINs, data aggregations, and secure PDO connections.
 
 ## How to reach me 
-  - Discord: _kirixx
+  - Discord - jptokyo.
