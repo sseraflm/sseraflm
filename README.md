@@ -1,4 +1,4 @@
-# Hi there, I'm JPTokyo!
+# Hi there, I'm sserafim!
 I'm an IT Technician Student and aspiring Fullstack/DevOps Engineer from Poland.
 
 ## Currently focusing on 
