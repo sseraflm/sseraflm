@@ -2,12 +2,12 @@
 I'm an IT Technician Student and aspiring Fullstack/DevOps Engineer from Poland.
 
 ## Currently focusing on 
-  - JavaScript (ES6+) & Web Fundamentals
+  - JavaScript & Web Fundamentals
 ## Goals for 2026 
-  - Advanced JavaScript - Mastering DOM manipulation, Async/Await, ES6 Modules, and Object-Oriented Programming.
-  - Git Flow & Code Quality - Consistently using feature branches, Conventional Commits, and writing clean, documented code.
-  - Backend Development - Building solid foundations in PHP, transitioning from basic scripts to a fully functional MVC architecture.
-  - Database Management - Mastering MySQL, including complex JOINs, data aggregations, and secure PDO connections.
+  - Advanced JavaScript 
+  - Git Flow & Code Quality 
+  - Backend Development 
+  - Database Management 
 
 ## How to reach me 
   - Discord - sseraflm
