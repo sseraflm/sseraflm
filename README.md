@@ -11,3 +11,7 @@ I'm an IT Technician Student and aspiring Fullstack/DevOps Engineer from Poland.
 
 ## How to reach me 
   - Discord - sseraflm
+
+## My inspiration.
+
+The Japanese Utaite Ado inspires me to follow my dreams.
