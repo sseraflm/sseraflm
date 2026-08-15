@@ -1,8 +1,7 @@
 # Hi there, I'm sserafim!
-I'm an IT Technician Student and aspiring Fullstack/DevOps Engineer from Poland.
 
 ## Currently focusing on 
-  - JavaScript & Web Fundamentals
+  - JavaScript
 ## Goals for 2026 
   - Advanced JavaScript 
   - Git Flow & Code Quality 
